@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display+SC&display=swap');
+*{
+    background-color: #e2daed;
+}
+h1 {
+    text-align: center;
+    font-family: 'Playfair Display SC', serif;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Suranna&display=swap');
+h2 {
+font-family: 'Suranna', serif;
+font-style: italic
+}
+
+@import url('https://fonts.googleapis.com/css?family=Tangerine&display=swap');
+h3 {
+    font-family: 'Tangerine', cursive;
+}
