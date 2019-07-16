@@ -5,12 +5,14 @@
 h1 {
     text-align: center;
     font-family: 'Playfair Display SC', serif;
+
 }
 
 @import url('https://fonts.googleapis.com/css?family=Suranna&display=swap');
 h2 {
 font-family: 'Suranna', serif;
-font-style: italic
+font-style: italic;
+background-color: #d9d8a5
 }
 
 @import url('https://fonts.googleapis.com/css?family=Tangerine&display=swap');
